@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> =took| join| ice| shirt| born;
+
+public <words> = <word>+;

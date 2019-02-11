@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = cop        |
+          tab    |
+          top |
+          fat|
+          pot;
+
+public <words> = <word>+;

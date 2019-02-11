@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> =loud| star| page| fur| cow;
+
+public <words> = <word>+;

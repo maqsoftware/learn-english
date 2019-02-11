@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = pram| grill| crash| frat| drug| brick;
+
+public <words> = <word>+;

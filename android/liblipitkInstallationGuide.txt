@@ -1,0 +1,20 @@
+1. Install the android ndk:
+	In android studio, go to File > Project Structure > SDK location
+	You will there is a button for downloading NDK
+	Download it.
+	After downloaded, you will see there is a NDK path
+	For example: /Users/hkgmia/Library/Android/sdk/ndk-bundle
+
+2. Compile the Liblipitk source code
+	The source code is located under the jni folder which is under android module
+
+	Open the jni folder, you will see there is file named 'Android.mk'
+
+	Open it, and change the path as your jni location in your computer
+	For example: PATHH := /Users/hkgmia/Desktop/StudioProjects/GLEXP-Team-AutoCognita-libGDX/android/jni
+
+	Open a terminal, go to the jni folder
+	cd /Users/hkgmia/Desktop/StudioProjects/GLEXP-Team-AutoCognita-libGDX/android/jni
+
+	Compile the source
+	/Users/hkgmia/Library/Android/sdk/ndk-bundle/ndk-build

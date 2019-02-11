@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = flap| clock| blush| glass| plug| sled;
+
+public <words> = <word>+;

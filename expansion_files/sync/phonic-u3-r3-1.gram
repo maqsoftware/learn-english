@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = might| time| fly| bright;
+
+public <words> = <word>+;

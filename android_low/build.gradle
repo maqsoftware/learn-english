@@ -1,0 +1,134 @@
+//apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+            //jni.srcDirs = ['jni']
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.maqautocognita.alxp"
+        multiDexEnabled true
+        minSdkVersion 16
+        targetSdkVersion 14
+        ndk {
+            moduleName "lipitk"
+            //abiFilters "x86", "armeabi-v7a", "x86_64", "armeabi", "arm64-v8a"
+            abiFilters "x86", "armeabi-v7a", "armeabi"
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/io.netty.versions.properties'
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/maven/com.google.guava/guava/pom.properties'
+        exclude 'META-INF/maven/com.google.guava/guava/pom.xml'
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "2048M"
+    }
+
+    configurations.all {
+        resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+            def requested = details.requested
+            if (requested.group == 'com.android.support') {
+                if (!requested.name.startsWith("multidex")) {
+                    details.useVersion '25.3.0'
+                }
+            }
+        }
+    }
+}
+// called every time gradle gets executed, takes the native dependencies of
+// the natives configuration, and extracts them to the proper libs/ folders
+// so they get packed with the APK.
+task copyAndroidNatives() {
+    file("libs/armeabi/").mkdirs();
+    file("libs/armeabi-v7a/").mkdirs();
+    file("libs/arm64-v8a/").mkdirs();
+    file("libs/x86_64/").mkdirs();
+    file("libs/x86/").mkdirs();
+
+    configurations.natives.files.each { jar ->
+        def outputDir = null
+        if (jar.name.endsWith("natives-arm64-v8a.jar")) outputDir = file("libs/arm64-v8a")
+        if (jar.name.endsWith("natives-armeabi-v7a.jar")) outputDir = file("libs/armeabi-v7a")
+        if (jar.name.endsWith("natives-armeabi.jar")) outputDir = file("libs/armeabi")
+        if (jar.name.endsWith("natives-x86_64.jar")) outputDir = file("libs/x86_64")
+        if (jar.name.endsWith("natives-x86.jar")) outputDir = file("libs/x86")
+        if (outputDir != null) {
+            copy {
+                from zipTree(jar)
+                into outputDir
+                include "*.so"
+            }
+        }
+    }
+}
+task run(type: Exec) {
+    def path
+    def localProperties = project.file("../local.properties")
+    if (localProperties.exists()) {
+        Properties properties = new Properties()
+        localProperties.withInputStream { instr ->
+            properties.load(instr)
+        }
+        def sdkDir = properties.getProperty('sdk.dir')
+        if (sdkDir) {
+            path = sdkDir
+        } else {
+            path = "$System.env.ANDROID_HOME"
+        }
+    } else {
+        path = "$System.env.ANDROID_HOME"
+    }
+
+    def adb = path + "/platform-tools/adb"
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.maqautocognita/com.maqautocognita.AndroidLauncher'
+}
+dependencies {
+    compile files('java-libs/pocketsphinx-android-5prealpha-nolib.jar')
+    compile project(':downloader_library')
+    compile project(':zip_file')
+    compile 'com.google.android.gms:play-services-location:8.4.0'
+    compile('com.google.apis:google-api-services-translate:v2-rev48-1.22.0') {
+        exclude group: 'com.google.guava'
+    }
+    compile('com.google.cloud:google-cloud-translate:0.5.0') {
+        exclude group: 'io.grpc', module: 'grpc-all'
+        exclude group: 'com.google.protobuf', module: 'protobuf-java'
+        exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
+    }
+    compile('com.analyticspot:android-sdk:1.0.36') {
+        exclude module: 'okhttp'
+        exclude module: 'okio'
+    }
+    compile 'com.ibm.watson.developer_cloud:android-sdk:0.2.2'
+    compile 'com.ibm.watson.developer_cloud:speech-to-text:3.8.1-SNAPSHOT'
+    compile 'com.rmtheis:tess-two:5.4.1'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile project(path: ':core')
+    compile 'com.badlogicgames.gdx:gdx-backend-android:1.9.7-SNAPSHOT'
+    compile 'commons-io:commons-io:2.4'
+    compile 'com.android.support:multidex:1.0.1'
+}
+
+repositories {
+    maven { url 'https://raw.githubusercontent.com/analyticspot/maven-sdk/master' }
+}

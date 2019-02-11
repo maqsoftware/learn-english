@@ -1,0 +1,2546 @@
+Syllable_ba_1.m4a
+Syllable_ba_2.m4a
+Syllable_ba_3.m4a
+Syllable_be_1.m4a
+Syllable_be_2.m4a
+Syllable_be_3.m4a
+Syllable_bi_1.m4a
+Syllable_bi_2.m4a
+Syllable_bi_3.m4a
+Syllable_bo_1.m4a
+Syllable_bo_2.m4a
+Syllable_bo_3.m4a
+Syllable_bu_1.m4a
+Syllable_bu_2.m4a
+Syllable_bu_3.m4a
+Syllable_bwa_1.m4a
+Syllable_bwa_2.m4a
+Syllable_bwa_3.m4a
+Syllable_bwe_1.m4a
+Syllable_bwe_2.m4a
+Syllable_bwe_3.m4a
+Syllable_bwi_1.m4a
+Syllable_bwi_2.m4a
+Syllable_bwi_3.m4a
+Syllable_cha_1.m4a
+Syllable_cha_2.m4a
+Syllable_cha_3.m4a
+Syllable_che_1.m4a
+Syllable_che_2.m4a
+Syllable_che_3.m4a
+Syllable_chi_1.m4a
+Syllable_chi_2.m4a
+Syllable_chi_3.m4a
+Syllable_cho_1.m4a
+Syllable_cho_2.m4a
+Syllable_cho_3.m4a
+Syllable_chu_1.m4a
+Syllable_chu_2.m4a
+Syllable_chu_3.m4a
+Syllable_chwa_1.m4a
+Syllable_chwa_2.m4a
+Syllable_chwa_3.m4a
+Syllable_chwe_1.m4a
+Syllable_chwe_2.m4a
+Syllable_chwe_3.m4a
+Syllable_chwi_1.m4a
+Syllable_chwi_2.m4a
+Syllable_chwi_3.m4a
+Syllable_da_1.m4a
+Syllable_da_2.m4a
+Syllable_da_3.m4a
+Syllable_de_1.m4a
+Syllable_de_2.m4a
+Syllable_de_3.m4a
+Syllable_dha_1.m4a
+Syllable_dha_2.m4a
+Syllable_dha_3.m4a
+Syllable_dhe_1.m4a
+Syllable_dhe_2.m4a
+Syllable_dhe_3.m4a
+Syllable_dhi_1.m4a
+Syllable_dhi_2.m4a
+Syllable_dhi_3.m4a
+Syllable_dho_1.m4a
+Syllable_dho_2.m4a
+Syllable_dho_3.m4a
+Syllable_dhu_1.m4a
+Syllable_dhu_2.m4a
+Syllable_dhu_3.m4a
+Syllable_di_1.m4a
+Syllable_di_2.m4a
+Syllable_di_3.m4a
+Syllable_do_1.m4a
+Syllable_do_2.m4a
+Syllable_do_3.m4a
+Syllable_du_1.m4a
+Syllable_du_2.m4a
+Syllable_du_3.m4a
+Syllable_fa_1.m4a
+Syllable_fa_2.m4a
+Syllable_fa_3.m4a
+Syllable_fe_1.m4a
+Syllable_fe_2.m4a
+Syllable_fe_3.m4a
+Syllable_fi_1.m4a
+Syllable_fi_2.m4a
+Syllable_fi_3.m4a
+Syllable_fo_1.m4a
+Syllable_fo_2.m4a
+Syllable_fo_3.m4a
+Syllable_fu_1.m4a
+Syllable_fu_2.m4a
+Syllable_fu_3.m4a
+Syllable_ga_1.m4a
+Syllable_ga_2.m4a
+Syllable_ga_3.m4a
+Syllable_ge_1.m4a
+Syllable_ge_2.m4a
+Syllable_ge_3.m4a
+Syllable_gha_1.m4a
+Syllable_gha_2.m4a
+Syllable_gha_3.m4a
+Syllable_ghe_1.m4a
+Syllable_ghe_2.m4a
+Syllable_ghe_3.m4a
+Syllable_ghi_1.m4a
+Syllable_ghi_2.m4a
+Syllable_ghi_3.m4a
+Syllable_gho_1.m4a
+Syllable_gho_2.m4a
+Syllable_gho_3.m4a
+Syllable_ghu_1.m4a
+Syllable_ghu_2.m4a
+Syllable_ghu_3.m4a
+Syllable_gi_1.m4a
+Syllable_gi_2.m4a
+Syllable_gi_3.m4a
+Syllable_go_1.m4a
+Syllable_go_2.m4a
+Syllable_go_3.m4a
+Syllable_gu_1.m4a
+Syllable_gu_2.m4a
+Syllable_gu_3.m4a
+Syllable_gwa_1.m4a
+Syllable_gwa_2.m4a
+Syllable_gwa_3.m4a
+Syllable_gwe_1.m4a
+Syllable_gwe_2.m4a
+Syllable_gwe_3.m4a
+Syllable_gwi_1.m4a
+Syllable_gwi_2.m4a
+Syllable_gwi_3.m4a
+Syllable_ha_1.m4a
+Syllable_ha_2.m4a
+Syllable_ha_3.m4a
+Syllable_he_1.m4a
+Syllable_he_2.m4a
+Syllable_he_3.m4a
+Syllable_hi_1.m4a
+Syllable_hi_2.m4a
+Syllable_hi_3.m4a
+Syllable_ho_1.m4a
+Syllable_ho_2.m4a
+Syllable_ho_3.m4a
+Syllable_hu_1.m4a
+Syllable_hu_2.m4a
+Syllable_hu_3.m4a
+Syllable_ja_1.m4a
+Syllable_ja_2.m4a
+Syllable_ja_3.m4a
+Syllable_je_1.m4a
+Syllable_je_2.m4a
+Syllable_je_3.m4a
+Syllable_ji_1.m4a
+Syllable_ji_2.m4a
+Syllable_ji_3.m4a
+Syllable_jo_1.m4a
+Syllable_jo_2.m4a
+Syllable_jo_3.m4a
+Syllable_ju_1.m4a
+Syllable_ju_2.m4a
+Syllable_ju_3.m4a
+Syllable_jwa_1.m4a
+Syllable_jwa_2.m4a
+Syllable_jwa_3.m4a
+Syllable_jwe_1.m4a
+Syllable_jwe_2.m4a
+Syllable_jwe_3.m4a
+Syllable_ka_1.m4a
+Syllable_ka_2.m4a
+Syllable_ka_3.m4a
+Syllable_ke_1.m4a
+Syllable_ke_2.m4a
+Syllable_ke_3.m4a
+Syllable_kha_1.m4a
+Syllable_kha_2.m4a
+Syllable_kha_3.m4a
+Syllable_khe_1.m4a
+Syllable_khe_2.m4a
+Syllable_khe_3.m4a
+Syllable_khi_1.m4a
+Syllable_khi_2.m4a
+Syllable_khi_3.m4a
+Syllable_kho_1.m4a
+Syllable_kho_2.m4a
+Syllable_kho_3.m4a
+Syllable_khu_1.m4a
+Syllable_khu_2.m4a
+Syllable_khu_3.m4a
+Syllable_ki_1.m4a
+Syllable_ki_2.m4a
+Syllable_ki_3.m4a
+Syllable_ko_1.m4a
+Syllable_ko_2.m4a
+Syllable_ko_3.m4a
+Syllable_ku_1.m4a
+Syllable_ku_2.m4a
+Syllable_ku_3.m4a
+Syllable_kwa_1.m4a
+Syllable_kwa_2.m4a
+Syllable_kwa_3.m4a
+Syllable_kwe_1.m4a
+Syllable_kwe_2.m4a
+Syllable_kwe_3.m4a
+Syllable_kwi_1.m4a
+Syllable_kwi_2.m4a
+Syllable_kwi_3.m4a
+Syllable_la_1.m4a
+Syllable_la_2.m4a
+Syllable_la_3.m4a
+Syllable_le_1.m4a
+Syllable_le_2.m4a
+Syllable_le_3.m4a
+Syllable_li_1.m4a
+Syllable_li_2.m4a
+Syllable_li_3.m4a
+Syllable_lo_1.m4a
+Syllable_lo_2.m4a
+Syllable_lo_3.m4a
+Syllable_lu_1.m4a
+Syllable_lu_2.m4a
+Syllable_lu_3.m4a
+Syllable_lwa_1.m4a
+Syllable_lwa_2.m4a
+Syllable_lwa_3.m4a
+Syllable_lwe_1.m4a
+Syllable_lwe_2.m4a
+Syllable_lwe_3.m4a
+Syllable_lwi_1.m4a
+Syllable_lwi_2.m4a
+Syllable_lwi_3.m4a
+Syllable_m_1.m4a
+Syllable_m_2.m4a
+Syllable_m_3.m4a
+Syllable_ma_1.m4a
+Syllable_ma_2.m4a
+Syllable_ma_3.m4a
+Syllable_mba_1.m4a
+Syllable_mba_2.m4a
+Syllable_mba_3.m4a
+Syllable_mbe_1.m4a
+Syllable_mbe_2.m4a
+Syllable_mbe_3.m4a
+Syllable_mbi_1.m4a
+Syllable_mbi_2.m4a
+Syllable_mbi_3.m4a
+Syllable_mbo_1.m4a
+Syllable_mbo_2.m4a
+Syllable_mbo_3.m4a
+Syllable_mbu_1.m4a
+Syllable_mbu_2.m4a
+Syllable_mbu_3.m4a
+Syllable_mbwa_1.m4a
+Syllable_mbwa_2.m4a
+Syllable_mbwa_3.m4a
+Syllable_mbwe_1.m4a
+Syllable_mbwe_2.m4a
+Syllable_mbwe_3.m4a
+Syllable_mbwi_1.m4a
+Syllable_mbwi_2.m4a
+Syllable_mbwi_3.m4a
+Syllable_me_1.m4a
+Syllable_me_2.m4a
+Syllable_me_3.m4a
+Syllable_mi_1.m4a
+Syllable_mi_2.m4a
+Syllable_mi_3.m4a
+Syllable_mo_1.m4a
+Syllable_mo_2.m4a
+Syllable_mo_3.m4a
+Syllable_mu_1.m4a
+Syllable_mu_2.m4a
+Syllable_mu_3.m4a
+Syllable_mva_1.m4a
+Syllable_mva_2.m4a
+Syllable_mva_3.m4a
+Syllable_mve_1.m4a
+Syllable_mve_2.m4a
+Syllable_mve_3.m4a
+Syllable_mvi_1.m4a
+Syllable_mvi_2.m4a
+Syllable_mvi_3.m4a
+Syllable_mvo_1.m4a
+Syllable_mvo_2.m4a
+Syllable_mvo_3.m4a
+Syllable_mvu_1.m4a
+Syllable_mvu_2.m4a
+Syllable_mvu_3.m4a
+Syllable_mwa_1.m4a
+Syllable_mwa_2.m4a
+Syllable_mwa_3.m4a
+Syllable_mwe_1.m4a
+Syllable_mwe_2.m4a
+Syllable_mwe_3.m4a
+Syllable_mwi_1.m4a
+Syllable_mwi_2.m4a
+Syllable_mwi_3.m4a
+Syllable_mwo_1.m4a
+Syllable_mwo_2.m4a
+Syllable_mwo_3.m4a
+Syllable_n_1.m4a
+Syllable_n_2.m4a
+Syllable_n_3.m4a
+Syllable_na_1.m4a
+Syllable_na_2.m4a
+Syllable_na_3.m4a
+Syllable_nda_1.m4a
+Syllable_nda_2.m4a
+Syllable_nda_3.m4a
+Syllable_nde_1.m4a
+Syllable_nde_2.m4a
+Syllable_nde_3.m4a
+Syllable_ndi_1.m4a
+Syllable_ndi_2.m4a
+Syllable_ndi_3.m4a
+Syllable_ndo_1.m4a
+Syllable_ndo_2.m4a
+Syllable_ndo_3.m4a
+Syllable_ndu_1.m4a
+Syllable_ndu_2.m4a
+Syllable_ndu_3.m4a
+Syllable_ndwa_1.m4a
+Syllable_ndwa_2.m4a
+Syllable_ndwa_3.m4a
+Syllable_ndwe_1.m4a
+Syllable_ndwe_2.m4a
+Syllable_ndwe_3.m4a
+Syllable_ndwi_1.m4a
+Syllable_ndwi_2.m4a
+Syllable_ndwi_3.m4a
+Syllable_ne_1.m4a
+Syllable_ne_2.m4a
+Syllable_ne_3.m4a
+Syllable_ng'a_1.m4a
+Syllable_ng'a_2.m4a
+Syllable_ng'a_3.m4a
+Syllable_ng'e_1.m4a
+Syllable_ng'e_2.m4a
+Syllable_ng'e_3.m4a
+Syllable_ng'i_1.m4a
+Syllable_ng'i_2.m4a
+Syllable_ng'i_3.m4a
+Syllable_ng'o_1.m4a
+Syllable_ng'o_2.m4a
+Syllable_ng'o_3.m4a
+Syllable_ng'u_1.m4a
+Syllable_ng'u_2.m4a
+Syllable_ng'u_3.m4a
+Syllable_ng'wa_1.m4a
+Syllable_ng'wa_2.m4a
+Syllable_ng'wa_3.m4a
+Syllable_ng'we_1.m4a
+Syllable_ng'we_2.m4a
+Syllable_ng'we_3.m4a
+Syllable_ng'wi_1.m4a
+Syllable_ng'wi_2.m4a
+Syllable_ng'wi_3.m4a
+Syllable_nga_1.m4a
+Syllable_nga_2.m4a
+Syllable_nga_3.m4a
+Syllable_nge_1.m4a
+Syllable_nge_2.m4a
+Syllable_nge_3.m4a
+Syllable_ngi_1.m4a
+Syllable_ngi_2.m4a
+Syllable_ngi_3.m4a
+Syllable_ngo_1.m4a
+Syllable_ngo_2.m4a
+Syllable_ngo_3.m4a
+Syllable_ngu_1.m4a
+Syllable_ngu_2.m4a
+Syllable_ngu_3.m4a
+Syllable_ngwa_1.m4a
+Syllable_ngwa_2.m4a
+Syllable_ngwa_3.m4a
+Syllable_ngwe_1.m4a
+Syllable_ngwe_2.m4a
+Syllable_ngwe_3.m4a
+Syllable_ngwi_1.m4a
+Syllable_ngwi_2.m4a
+Syllable_ngwi_3.m4a
+Syllable_ni_1.m4a
+Syllable_ni_2.m4a
+Syllable_ni_3.m4a
+Syllable_nja_1.m4a
+Syllable_nja_2.m4a
+Syllable_nja_3.m4a
+Syllable_nje_1.m4a
+Syllable_nje_2.m4a
+Syllable_nje_3.m4a
+Syllable_nji_1.m4a
+Syllable_nji_2.m4a
+Syllable_nji_3.m4a
+Syllable_njo_1.m4a
+Syllable_njo_2.m4a
+Syllable_njo_3.m4a
+Syllable_nju_1.m4a
+Syllable_nju_2.m4a
+Syllable_nju_3.m4a
+Syllable_njwa_1.m4a
+Syllable_njwa_2.m4a
+Syllable_njwa_3.m4a
+Syllable_njwe_1.m4a
+Syllable_njwe_2.m4a
+Syllable_njwe_3.m4a
+Syllable_no_1.m4a
+Syllable_no_2.m4a
+Syllable_no_3.m4a
+Syllable_nu_1.m4a
+Syllable_nu_2.m4a
+Syllable_nu_3.m4a
+Syllable_nya_1.m4a
+Syllable_nya_2.m4a
+Syllable_nya_3.m4a
+Syllable_nye_1.m4a
+Syllable_nye_2.m4a
+Syllable_nye_3.m4a
+Syllable_nyi_1.m4a
+Syllable_nyi_2.m4a
+Syllable_nyi_3.m4a
+Syllable_nyo_1.m4a
+Syllable_nyo_2.m4a
+Syllable_nyo_3.m4a
+Syllable_nyu_1.m4a
+Syllable_nyu_2.m4a
+Syllable_nyu_3.m4a
+Syllable_nywa_1.m4a
+Syllable_nywa_2.m4a
+Syllable_nywa_3.m4a
+Syllable_nywe_1.m4a
+Syllable_nywe_2.m4a
+Syllable_nywe_3.m4a
+Syllable_nywi_1.m4a
+Syllable_nywi_2.m4a
+Syllable_nywi_3.m4a
+Syllable_nza_1.m4a
+Syllable_nza_2.m4a
+Syllable_nza_3.m4a
+Syllable_nze_1.m4a
+Syllable_nze_2.m4a
+Syllable_nze_3.m4a
+Syllable_nzi_1.m4a
+Syllable_nzi_2.m4a
+Syllable_nzi_3.m4a
+Syllable_nzo_1.m4a
+Syllable_nzo_2.m4a
+Syllable_nzo_3.m4a
+Syllable_nzu_1.m4a
+Syllable_nzu_2.m4a
+Syllable_nzu_3.m4a
+Syllable_pa_1.m4a
+Syllable_pa_2.m4a
+Syllable_pa_3.m4a
+Syllable_pe_1.m4a
+Syllable_pe_2.m4a
+Syllable_pe_3.m4a
+Syllable_pi_1.m4a
+Syllable_pi_2.m4a
+Syllable_pi_3.m4a
+Syllable_po_1.m4a
+Syllable_po_2.m4a
+Syllable_po_3.m4a
+Syllable_pu_1.m4a
+Syllable_pu_2.m4a
+Syllable_pu_3.m4a
+Syllable_pwa_1.m4a
+Syllable_pwa_2.m4a
+Syllable_pwa_3.m4a
+Syllable_pwe_1.m4a
+Syllable_pwe_2.m4a
+Syllable_pwe_3.m4a
+Syllable_pwi_1.m4a
+Syllable_pwi_2.m4a
+Syllable_pwi_3.m4a
+Syllable_ra_1.m4a
+Syllable_ra_2.m4a
+Syllable_ra_3.m4a
+Syllable_re_1.m4a
+Syllable_re_2.m4a
+Syllable_re_3.m4a
+Syllable_ri_1.m4a
+Syllable_ri_2.m4a
+Syllable_ri_3.m4a
+Syllable_ro_1.m4a
+Syllable_ro_2.m4a
+Syllable_ro_3.m4a
+Syllable_ru_1.m4a
+Syllable_ru_2.m4a
+Syllable_ru_3.m4a
+Syllable_sa_1.m4a
+Syllable_sa_2.m4a
+Syllable_sa_3.m4a
+Syllable_se_1.m4a
+Syllable_se_2.m4a
+Syllable_se_3.m4a
+Syllable_sha_1.m4a
+Syllable_sha_2.m4a
+Syllable_sha_3.m4a
+Syllable_she_1.m4a
+Syllable_she_2.m4a
+Syllable_she_3.m4a
+Syllable_shi_1.m4a
+Syllable_shi_2.m4a
+Syllable_shi_3.m4a
+Syllable_sho_1.m4a
+Syllable_sho_2.m4a
+Syllable_sho_3.m4a
+Syllable_shu_1.m4a
+Syllable_shu_2.m4a
+Syllable_shu_3.m4a
+Syllable_shwa_1.m4a
+Syllable_shwa_2.m4a
+Syllable_shwa_3.m4a
+Syllable_shwe_1.m4a
+Syllable_shwe_2.m4a
+Syllable_shwe_3.m4a
+Syllable_shwi_1.m4a
+Syllable_shwi_2.m4a
+Syllable_shwi_3.m4a
+Syllable_si_1.m4a
+Syllable_si_2.m4a
+Syllable_si_3.m4a
+Syllable_so_1.m4a
+Syllable_so_2.m4a
+Syllable_so_3.m4a
+Syllable_su_1.m4a
+Syllable_su_2.m4a
+Syllable_su_3.m4a
+Syllable_swa_1.m4a
+Syllable_swa_2.m4a
+Syllable_swa_3.m4a
+Syllable_swe_1.m4a
+Syllable_swe_2.m4a
+Syllable_swe_3.m4a
+Syllable_swi_1.m4a
+Syllable_swi_2.m4a
+Syllable_swi_3.m4a
+Syllable_ta_1.m4a
+Syllable_ta_2.m4a
+Syllable_ta_3.m4a
+Syllable_te_1.m4a
+Syllable_te_2.m4a
+Syllable_te_3.m4a
+Syllable_tha_1.m4a
+Syllable_tha_2.m4a
+Syllable_tha_3.m4a
+Syllable_the_1.m4a
+Syllable_the_2.m4a
+Syllable_the_3.m4a
+Syllable_thi_1.m4a
+Syllable_thi_2.m4a
+Syllable_thi_3.m4a
+Syllable_tho_1.m4a
+Syllable_tho_2.m4a
+Syllable_tho_3.m4a
+Syllable_thu_1.m4a
+Syllable_thu_2.m4a
+Syllable_thu_3.m4a
+Syllable_ti_1.m4a
+Syllable_ti_2.m4a
+Syllable_ti_3.m4a
+Syllable_to_1.m4a
+Syllable_to_2.m4a
+Syllable_to_3.m4a
+Syllable_tu_1.m4a
+Syllable_tu_2.m4a
+Syllable_tu_3.m4a
+Syllable_twa_1.m4a
+Syllable_twa_2.m4a
+Syllable_twa_3.m4a
+Syllable_twe_1.m4a
+Syllable_twe_2.m4a
+Syllable_twe_3.m4a
+Syllable_twi_1.m4a
+Syllable_twi_2.m4a
+Syllable_twi_3.m4a
+Syllable_va_1.m4a
+Syllable_va_2.m4a
+Syllable_va_3.m4a
+Syllable_ve_1.m4a
+Syllable_ve_2.m4a
+Syllable_ve_3.m4a
+Syllable_vi_1.m4a
+Syllable_vi_2.m4a
+Syllable_vi_3.m4a
+Syllable_vo_1.m4a
+Syllable_vo_2.m4a
+Syllable_vo_3.m4a
+Syllable_vu_1.m4a
+Syllable_vu_2.m4a
+Syllable_vu_3.m4a
+Syllable_vya_1.m4a
+Syllable_vya_2.m4a
+Syllable_vya_3.m4a
+Syllable_vye_1.m4a
+Syllable_vye_2.m4a
+Syllable_vye_3.m4a
+Syllable_vyo_1.m4a
+Syllable_vyo_2.m4a
+Syllable_vyo_3.m4a
+Syllable_vyu_1.m4a
+Syllable_vyu_2.m4a
+Syllable_vyu_3.m4a
+Syllable_wa_1.m4a
+Syllable_wa_2.m4a
+Syllable_wa_3.m4a
+Syllable_we_1.m4a
+Syllable_we_2.m4a
+Syllable_we_3.m4a
+Syllable_wi_1.m4a
+Syllable_wi_2.m4a
+Syllable_wi_3.m4a
+Syllable_wo_1.m4a
+Syllable_wo_2.m4a
+Syllable_wo_3.m4a
+Syllable_ya_1.m4a
+Syllable_ya_2.m4a
+Syllable_ya_3.m4a
+Syllable_ye_1.m4a
+Syllable_ye_2.m4a
+Syllable_ye_3.m4a
+Syllable_yi_1.m4a
+Syllable_yi_2.m4a
+Syllable_yi_3.m4a
+Syllable_yo_1.m4a
+Syllable_yo_2.m4a
+Syllable_yo_3.m4a
+Syllable_yu_1.m4a
+Syllable_yu_2.m4a
+Syllable_yu_3.m4a
+Syllable_za_1.m4a
+Syllable_za_2.m4a
+Syllable_za_3.m4a
+Syllable_ze_1.m4a
+Syllable_ze_2.m4a
+Syllable_ze_3.m4a
+Syllable_zi_1.m4a
+Syllable_zi_2.m4a
+Syllable_zi_3.m4a
+Syllable_zo_1.m4a
+Syllable_zo_2.m4a
+Syllable_zo_3.m4a
+Syllable_zu_1.m4a
+Syllable_zu_2.m4a
+Syllable_zu_3.m4a
+Syllable_zwa_1.m4a
+Syllable_zwa_2.m4a
+Syllable_zwa_3.m4a
+Syllable_zwe_1.m4a
+Syllable_zwe_2.m4a
+Syllable_zwe_3.m4a
+Syllable_zwi_1.m4a
+Syllable_zwi_2.m4a
+Syllable_zwi_3.m4a
+alphabet_a.m4a
+alphabet_b.m4a
+alphabet_c.m4a
+alphabet_d.m4a
+alphabet_e.m4a
+alphabet_f.m4a
+alphabet_g.m4a
+alphabet_h.m4a
+alphabet_i.m4a
+alphabet_j.m4a
+alphabet_k.m4a
+alphabet_l.m4a
+alphabet_listening.m4a
+alphabet_listening_mastery.m4a
+alphabet_m.m4a
+alphabet_matching.m4a
+alphabet_matching_help.m4a
+alphabet_matching_mastery.m4a
+alphabet_matching_review.m4a
+alphabet_n.m4a
+alphabet_o.m4a
+alphabet_p.m4a
+alphabet_q.m4a
+alphabet_r.m4a
+alphabet_reading_a.m4a
+alphabet_reading_help.m4a
+alphabet_s.m4a
+alphabet_speaking.m4a
+alphabet_speaking_help.m4a
+alphabet_speaking_mastery.m4a
+alphabet_speaking_review.m4a
+alphabet_speaking_review1.m4a
+alphabet_speaking_review1_help.m4a
+alphabet_t.m4a
+alphabet_u.m4a
+alphabet_v.m4a
+alphabet_w.m4a
+alphabet_writing.m4a
+alphabet_writing_big.m4a
+alphabet_writing_big2.m4a
+alphabet_writing_little.m4a
+alphabet_writing_little2.m4a
+alphabet_writing_mastery.m4a
+alphabet_writing_review.m4a
+alphabet_x.m4a
+alphabet_y.m4a
+alphabet_z.m4a
+blendsound_bl.m4a
+blendsound_br.m4a
+blendsound_cl.m4a
+blendsound_cr.m4a
+blendsound_dr.m4a
+blendsound_fl.m4a
+blendsound_fr.m4a
+blendsound_ft.m4a
+blendsound_gl.m4a
+blendsound_gr.m4a
+blendsound_lf.m4a
+blendsound_lp.m4a
+blendsound_lt (1).m4a
+blendsound_lt.m4a
+blendsound_mp.m4a
+blendsound_nd.m4a
+blendsound_nk.m4a
+blendsound_nt 2.m4a
+blendsound_nt.m4a
+blendsound_pl.m4a
+blendsound_pr.m4a
+blendsound_shr.m4a
+blendsound_sk.m4a
+blendsound_sl.m4a
+blendsound_sm.m4a
+blendsound_sn.m4a
+blendsound_sp.m4a
+blendsound_spr.m4a
+blendsound_st.m4a
+blendsound_str.m4a
+blendsound_sw.m4a
+blendsound_tr.m4a
+fb2_help.m4a
+fb2_short.m4a
+fb3_intro.m4a
+fb_help.m4a
+fb_intro.m4a
+gr2_blends.m4a
+gr2_blends_help.m4a
+gr2_help.m4a
+gr2_short.m4a
+gr3_help.m4a
+gr3_mastery.m4a
+gr3_short.m4a
+gr_help.m4a
+gr_help_consonant.m4a
+gr_help_vowel.m4a
+gr_short_consonant.m4a
+gr_short_consonant_end.m4a
+gr_short_vowel.m4a
+listentype2_help.m4a
+listentype2_intro.m4a
+listentype2_long_1a.m4a
+listentype2_long_1b.m4a
+listentype2_long_2a.m4a
+listentype2_long_2b.m4a
+listentype2_long_3a.m4a
+listentype2_long_3b.m4a
+listentype2_mastery_intro.m4a
+listentype_help.m4a
+listentype_intro.m4a
+listentype_long_1a.m4a
+listentype_long_1b.m4a
+listentype_long_2a.m4a
+listentype_long_2b.m4a
+listentype_long_3a.m4a
+listentype_long_3b.m4a
+listentype_mastery_help_1.m4a
+listentype_mastery_intro_1.m4a
+listentype_mastery_intro_2.m4a
+listentype_short_a.m4a
+listentype_short_b.m4a
+lta_help.m4a
+lta_intro.m4a
+lta_short_1a.m4a
+lta_short_1b.m4a
+lwa_help.m4a
+lwa_intro.m4a
+ma_help.m4a
+ma_intro.m4a
+mastery_2.m4a
+mastery_help_2.m4a
+phonic sound_ar.m4a
+phonic sound_aw.m4a
+phonic sound_b.m4a
+phonic sound_ch.m4a
+phonic sound_d.m4a
+phonic sound_er.m4a
+phonic sound_f.m4a
+phonic sound_g.m4a
+phonic sound_h.m4a
+phonic sound_j.m4a
+phonic sound_k.m4a
+phonic sound_l.m4a
+phonic sound_long a.m4a
+phonic sound_long e.m4a
+phonic sound_long i.m4a
+phonic sound_long o.m4a
+phonic sound_long oo.m4a
+phonic sound_long u.m4a
+phonic sound_m.m4a
+phonic sound_n.m4a
+phonic sound_ng.m4a
+phonic sound_nk.m4a
+phonic sound_oi.m4a
+phonic sound_or.m4a
+phonic sound_ow.m4a
+phonic sound_p.m4a
+phonic sound_q.m4a
+phonic sound_qu.m4a
+phonic sound_r.m4a
+phonic sound_s.m4a
+phonic sound_sh.m4a
+phonic sound_short a.m4a
+phonic sound_short e.m4a
+phonic sound_short i.m4a
+phonic sound_short o.m4a
+phonic sound_short oo.m4a
+phonic sound_short u.m4a
+phonic sound_t.m4a
+phonic sound_th unvoiced.m4a
+phonic sound_th voiced.m4a
+phonic sound_v.m4a
+phonic sound_w.m4a
+phonic sound_wh.m4a
+phonic sound_x.m4a
+phonic sound_y.m4a
+phonic sound_z.m4a
+phonic sound_zh.m4a
+phonics u1_fillblanks.m4a
+phonics u1_grouping_vowel sounds.m4a
+phonics u1_listentype_bed.m4a
+phonics u1_listentype_dam.m4a
+phonics u1_listentype_fig.m4a
+phonics u1_listentype_fox.m4a
+phonics u1_listentype_help.m4a
+phonics u1_listentype_help_L5.m4a
+phonics u1_listentype_hog.m4a
+phonics u1_listentype_hog2.m4a
+phonics u1_listentype_hog3.m4a
+phonics u1_listentype_jig.m4a
+phonics u1_listentype_jig2.m4a
+phonics u1_listentype_jig3.m4a
+phonics u1_listentype_kit.m4a
+phonics u1_listentype_lap.m4a
+phonics u1_listentype_lap2.m4a
+phonics u1_listentype_lap3.m4a
+phonics u1_listentype_let.m4a
+phonics u1_listentype_nap.m4a
+phonics u1_listentype_pot.m4a
+phonics u1_listentype_quit.m4a
+phonics u1_listentype_rug.m4a
+phonics u1_listentype_speechicon.m4a
+phonics u1_listentype_van.m4a
+phonics u1_listentype_wig.m4a
+phonics u1_listentype_yes.m4a
+phonics u1_listentype_zip.m4a
+phonics u1_mastery1_help.m4a
+phonics u1_mastery2_help.m4a
+phonics u1_mastery3 (1).m4a
+phonics u1_mastery3.m4a
+phonics u1_mastery_1.m4a
+phonics u1_mastery_2.m4a
+phonics u1_phonicsound_qu.m4a
+phonics u1_phonicsound_x.m4a
+phonics u1_reading_a.m4a
+phonics u1_reading_c.m4a
+phonics u1_reading_e.m4a
+phonics u1_reading_i.m4a
+phonics u1_reading_o.m4a
+phonics u1_reading_q.m4a
+phonics u1_reading_u.m4a
+phonics u1_reading_x.m4a
+phonics u1_speaking.m4a
+phonics u1_speaking_1.m4a
+phonics u1_speaking_2.m4a
+phonics u1_speaking_L4.m4a
+phonics u1_speaking_help.m4a
+phonics u1_speaking_help_L4.m4a
+phonics u1_wordblend.m4a
+phonics u1_wordblend_1.m4a
+phonics u1_wordblend_1x.m4a
+phonics u1_wordblend_2.m4a
+phonics u1_wordblend_2q.m4a
+phonics u1_wordblend_2x.m4a
+phonics u1_wordblend_3.m4a
+phonics u1_wordblend_3q.m4a
+phonics u1_wordblend_3x.m4a
+phonics u1_wordblend_4.m4a
+phonics u1_wordblend_L3.m4a
+phonics u1_wordblend_L4.m4a
+phonics u1_wordblend_help.m4a
+phonics u1_wordblend_q.m4a
+phonics u1_wordblend_set (1).m4a
+phonics u1_wordblend_set.m4a
+phonics u1_wordblend_x.m4a
+phonics u2_fillblanks.m4a
+phonics u2_listentype_back.m4a
+phonics u2_listentype_blends.m4a
+phonics u2_listentype_blip.m4a
+phonics u2_listentype_brat.m4a
+phonics u2_listentype_chat.m4a
+phonics u2_listentype_chat2.m4a
+phonics u2_listentype_chat3.m4a
+phonics u2_listentype_chin.m4a
+phonics u2_listentype_crib.m4a
+phonics u2_listentype_help.m4a
+phonics u2_listentype_help_blends.m4a
+phonics u2_listentype_help_blends2.m4a
+phonics u2_listentype_inch.m4a
+phonics u2_listentype_inch2.m4a
+phonics u2_listentype_inch3.m4a
+phonics u2_listentype_mask.m4a
+phonics u2_listentype_mitt.m4a
+phonics u2_listentype_plus.m4a
+phonics u2_listentype_raft.m4a
+phonics u2_listentype_ring.m4a
+phonics u2_listentype_rock.m4a
+phonics u2_listentype_salt.m4a
+phonics u2_listentype_shred.m4a
+phonics u2_listentype_shred2.m4a
+phonics u2_listentype_shred3.m4a
+phonics u2_listentype_shrub.m4a
+phonics u2_listentype_shrug.m4a
+phonics u2_listentype_shrug2.m4a
+phonics u2_listentype_shrug3.m4a
+phonics u2_listentype_shut.m4a
+phonics u2_listentype_sprat.m4a
+phonics u2_listentype_sprung.m4a
+phonics u2_listentype_sprung2.m4a
+phonics u2_listentype_sprung3.m4a
+phonics u2_listentype_string.m4a
+phonics u2_listentype_strip.m4a
+phonics u2_listentype_task.m4a
+phonics u2_listentype_that.m4a
+phonics u2_listentype_thin.m4a
+phonics u2_listentype_trick.m4a
+phonics u2_listentype_whim.m4a
+phonics u2_reading_bl.m4a
+phonics u2_reading_br.m4a
+phonics u2_reading_ch.m4a
+phonics u2_reading_ft.m4a
+phonics u2_reading_help.m4a
+phonics u2_reading_help_blends.m4a
+phonics u2_reading_shr.m4a
+phonics u2_reading_sk.m4a
+phonics u2_reading_spr.m4a
+phonics u2_reading_them.m4a
+phonics u2_review1.m4a
+phonics u2_review1_grouping.m4a
+phonics u2_review4_grouping.m4a
+phonics u2_speaking.m4a
+phonics u2_speaking_help.m4a
+phonics u2_speaking_ll.m4a
+phonics u2_wordblend.m4a
+phonics u2_wordblend_brat.m4a
+phonics u2_wordblend_brim.m4a
+phonics u2_wordblend_brim2.m4a
+phonics u2_wordblend_brim3.m4a
+phonics u2_wordblend_bring.m4a
+phonics u2_wordblend_bring2.m4a
+phonics u2_wordblend_bring3.m4a
+phonics u2_wordblend_chip.m4a
+phonics u2_wordblend_chip2.m4a
+phonics u2_wordblend_chip3 (1).m4a
+phonics u2_wordblend_chip3.m4a
+phonics u2_wordblend_chop.m4a
+phonics u2_wordblend_cross.m4a
+phonics u2_wordblend_cross2.m4a
+phonics u2_wordblend_cross3.m4a
+phonics u2_wordblend_crush.m4a
+phonics u2_wordblend_help.m4a
+phonics u2_wordblend_help_blends.m4a
+phonics u2_wordblend_help_blends2.m4a
+phonics u2_wordblend_inch.m4a
+phonics u2_wordblend_inch2.m4a
+phonics u2_wordblend_inch3.m4a
+phonics u2_wordblend_nick.m4a
+phonics u2_wordblend_pill.m4a
+phonics u2_wordblend_shred.m4a
+phonics u2_wordblend_shrub.m4a
+phonics u2_wordblend_shrub2.m4a
+phonics u2_wordblend_shrub3.m4a
+phonics u2_wordblend_sprat.m4a
+phonics u2_wordblend_spring.m4a
+phonics u2_wordblend_spring2.m4a
+phonics u2_wordblend_spring3.m4a
+phonics u2_wordblend_such.m4a
+phonics u2_wordblend_than.m4a
+phonics u3_listentype_choke.m4a
+phonics u3_listentype_cry.m4a
+phonics u3_listentype_cute.m4a
+phonics u3_listentype_dime.m4a
+phonics u3_listentype_goal.m4a
+phonics u3_listentype_help.m4a
+phonics u3_listentype_make.m4a
+phonics u3_listentype_might.m4a
+phonics u3_listentype_need.m4a
+phonics u3_listentype_plate.m4a
+phonics u3_listentype_row.m4a
+phonics u3_listentype_say.m4a
+phonics u3_listentype_sleep.m4a
+phonics u3_listentype_slow.m4a
+phonics u3_listentype_teach.m4a
+phonics u3_listentype_team.m4a
+phonics u3_listentype_try.m4a
+phonics u3_reading_ae.m4a
+phonics u3_reading_ai.m4a
+phonics u3_reading_ay.m4a
+phonics u3_reading_ea.m4a
+phonics u3_reading_ee.m4a
+phonics u3_reading_ie.m4a
+phonics u3_reading_igh.m4a
+phonics u3_reading_oa.m4a
+phonics u3_reading_oe.m4a
+phonics u3_reading_ow.m4a
+phonics u3_reading_ue.m4a
+phonics u3_reading_y.m4a
+phonics u3_speaking.m4a
+phonics u3_speaking_help.m4a
+phonics u3_wordblend_beach.m4a
+phonics u3_wordblend_chain.m4a
+phonics u3_wordblend_cheap.m4a
+phonics u3_wordblend_cheap2.m4a
+phonics u3_wordblend_cheap3.m4a
+phonics u3_wordblend_cone.m4a
+phonics u3_wordblend_cone2.m4a
+phonics u3_wordblend_cone3.m4a
+phonics u3_wordblend_cry.m4a
+phonics u3_wordblend_cube.m4a
+phonics u3_wordblend_cube2.m4a
+phonics u3_wordblend_cube3.m4a
+phonics u3_wordblend_day.m4a
+phonics u3_wordblend_drove.m4a
+phonics u3_wordblend_help.m4a
+phonics u3_wordblend_lake.m4a
+phonics u3_wordblend_lake2.m4a
+phonics u3_wordblend_lake3.m4a
+phonics u3_wordblend_mule.m4a
+phonics u3_wordblend_name.m4a
+phonics u3_wordblend_night.m4a
+phonics u3_wordblend_night2.m4a
+phonics u3_wordblend_night3.m4a
+phonics u3_wordblend_pale.m4a
+phonics u3_wordblend_pale2.m4a
+phonics u3_wordblend_pale3.m4a
+phonics u3_wordblend_play.m4a
+phonics u3_wordblend_play2.m4a
+phonics u3_wordblend_rail.m4a
+phonics u3_wordblend_rail2.m4a
+phonics u3_wordblend_rail3.m4a
+phonics u3_wordblend_road.m4a
+phonics u3_wordblend_rope.m4a
+phonics u3_wordblend_shine.m4a
+phonics u3_wordblend_show.m4a
+phonics u3_wordblend_shy.m4a
+phonics u3_wordblend_shy2.m4a
+phonics u3_wordblend_skate.m4a
+phonics u3_wordblend_skate2.m4a
+phonics u3_wordblend_skate3.m4a
+phonics u3_wordblend_tape.m4a
+phonics u3_wordblend_tight.m4a
+phonics u3_wordblend_time.m4a
+phonics u3_wordblend_time2.m4a
+phonics u3_wordblend_time3.m4a
+phonics u3_wordblend_way.m4a
+phonics u3_wordblend_week.m4a
+phrase_long_1a.m4a
+phrase_makessound.m4a
+phrase_putall.m4a
+phrase_record.m4a
+phrase_soundinto.m4a
+phrase_theletter.m4a
+rl2_help.m4a
+rl2_intro.m4a
+rl2_intro_br.m4a
+rl2_intro_ll.m4a
+rl2_intro_spr.m4a
+rl2_intro_th.m4a
+rl3_help.m4a
+rl3_intro.m4a
+rl3_intro_ai.m4a
+rl3_intro_ay.m4a
+rl3_intro_ea.m4a
+rl3_intro_ie.m4a
+rl3_intro_oe.m4a
+rl3_intro_ue.m4a
+rl4_intro.m4a
+rl4_intro_ar.m4a
+rl4_intro_c.m4a
+rl4_intro_g.m4a
+rl4_intro_ir.m4a
+rl4_intro_long_oo.m4a
+rl4_intro_oi.m4a
+rl4_intro_ou.m4a
+rl4_intro_s.m4a
+rl4_intro_ur.m4a
+rl_help.m4a
+rl_intro.m4a
+rl_intro_bl.m4a
+rl_intro_ft.m4a
+rl_intro_q.m4a
+rl_intro_sk.m4a
+rl_intro_x.m4a
+rla_help.m4a
+rla_intro.m4a
+rla_short_1a.m4a
+rla_short_1b.m4a
+rla_short_1c.m4a
+s_fb_short.m4a
+s_gr_short.m4a
+s_gr_short_review.m4a
+s_listentype_help.m4a
+s_listentype_help_words.m4a
+s_listentype_intro.m4a
+s_listentype_intro_long_1a.m4a
+s_listentype_intro_long_1a_words.m4a
+s_listentype_intro_long_1b.m4a
+s_listentype_intro_long_1b_words.m4a
+s_listentype_intro_mastery.m4a
+s_listentype_short.m4a
+s_listentype_short_words.m4a
+s_lta_intro.m4a
+s_lwa_intro.m4a
+s_ma_intro.m4a
+s_mastery_1.m4a
+s_mastery_help_1.m4a
+s_phonic_b.m4a
+s_phonic_bw.m4a
+s_phonic_ch.m4a
+s_phonic_chw.m4a
+s_phonic_d.m4a
+s_phonic_dh.m4a
+s_phonic_f.m4a
+s_phonic_g.m4a
+s_phonic_gh.m4a
+s_phonic_gw.m4a
+s_phonic_h.m4a
+s_phonic_j.m4a
+s_phonic_jw.m4a
+s_phonic_k.m4a
+s_phonic_kh.m4a
+s_phonic_kw.m4a
+s_phonic_l.m4a
+s_phonic_lw.m4a
+s_phonic_m.m4a
+s_phonic_mb.m4a
+s_phonic_mbw.m4a
+s_phonic_mv.m4a
+s_phonic_mw.m4a
+s_phonic_n.m4a
+s_phonic_nd.m4a
+s_phonic_ndw.m4a
+s_phonic_ng'.m4a
+s_phonic_ng'w.m4a
+s_phonic_ng.m4a
+s_phonic_ngw.m4a
+s_phonic_nj.m4a
+s_phonic_njw.m4a
+s_phonic_ny.m4a
+s_phonic_nyw.m4a
+s_phonic_nz.m4a
+s_phonic_p.m4a
+s_phonic_pw.m4a
+s_phonic_r.m4a
+s_phonic_s.m4a
+s_phonic_sh.m4a
+s_phonic_shw.m4a
+s_phonic_sw.m4a
+s_phonic_t.m4a
+s_phonic_th.m4a
+s_phonic_tw.m4a
+s_phonic_v.m4a
+s_phonic_vy.m4a
+s_phonic_w.m4a
+s_phonic_y.m4a
+s_phonic_z.m4a
+s_phonic_zw.m4a
+s_rl2_intro.m4a
+s_rl3_intro.m4a
+s_rl_intro.m4a
+s_rl_intro_syllables.m4a
+s_rl_short.m4a
+s_rl_syllables_help.m4a
+s_rla_intro.m4a
+s_rla_short_1a.m4a
+s_rla_short_1b.m4a
+s_rla_short_1c.m4a
+s_sp_intro.m4a
+s_sp_intro_2.m4a
+s_sp_intro_syllable.m4a
+s_spa_intro.m4a
+s_spar_intro.m4a
+s_tp_intro.m4a
+s_vowel_a_1.m4a
+s_vowel_a_2.m4a
+s_vowel_a_3.m4a
+s_vowel_e_1.m4a
+s_vowel_e_2.m4a
+s_vowel_e_3.m4a
+s_vowel_i_1.m4a
+s_vowel_i_2.m4a
+s_vowel_i_3.m4a
+s_vowel_o_1.m4a
+s_vowel_o_2.m4a
+s_vowel_o_3.m4a
+s_vowel_u_1.m4a
+s_vowel_u_2.m4a
+s_vowel_u_3.m4a
+s_wordblend_help.m4a
+s_wordblend_intro.m4a
+s_wordblend_long_1a.m4a
+s_wordblend_long_1b.m4a
+s_wordblend_long_2a.m4a
+s_wordblend_long_2b.m4a
+s_wordblend_short_a.m4a
+s_wordblend_short_b.m4a
+s_wra_help.m4a
+s_wra_intro.m4a
+s_wra_short_1a.m4a
+s_wra_short_1b.m4a
+salphabet_a.m4a
+salphabet_b.m4a
+salphabet_big_a.m4a
+salphabet_big_b.m4a
+salphabet_big_c.m4a
+salphabet_big_d.m4a
+salphabet_big_e.m4a
+salphabet_big_f.m4a
+salphabet_big_g.m4a
+salphabet_big_h.m4a
+salphabet_big_i.m4a
+salphabet_big_j.m4a
+salphabet_big_k.m4a
+salphabet_big_l.m4a
+salphabet_big_m.m4a
+salphabet_big_n.m4a
+salphabet_big_o.m4a
+salphabet_big_p.m4a
+salphabet_big_r.m4a
+salphabet_big_s.m4a
+salphabet_big_t.m4a
+salphabet_big_u.m4a
+salphabet_big_v.m4a
+salphabet_big_w.m4a
+salphabet_big_y.m4a
+salphabet_big_z.m4a
+salphabet_c.m4a
+salphabet_d.m4a
+salphabet_e.m4a
+salphabet_f.m4a
+salphabet_g.m4a
+salphabet_h.m4a
+salphabet_i.m4a
+salphabet_j.m4a
+salphabet_k.m4a
+salphabet_l.m4a
+salphabet_little_a.m4a
+salphabet_little_b.m4a
+salphabet_little_c.m4a
+salphabet_little_d.m4a
+salphabet_little_e.m4a
+salphabet_little_f.m4a
+salphabet_little_g.m4a
+salphabet_little_h.m4a
+salphabet_little_i.m4a
+salphabet_little_j.m4a
+salphabet_little_k.m4a
+salphabet_little_l.m4a
+salphabet_little_m.m4a
+salphabet_little_n.m4a
+salphabet_little_o.m4a
+salphabet_little_p.m4a
+salphabet_little_r.m4a
+salphabet_little_s.m4a
+salphabet_little_t.m4a
+salphabet_little_u.m4a
+salphabet_little_v.m4a
+salphabet_little_w.m4a
+salphabet_little_y.m4a
+salphabet_little_z.m4a
+salphabet_m.m4a
+salphabet_n.m4a
+salphabet_o.m4a
+salphabet_p.m4a
+salphabet_r.m4a
+salphabet_s.m4a
+salphabet_t.m4a
+salphabet_u.m4a
+salphabet_v.m4a
+salphabet_w.m4a
+salphabet_y.m4a
+salphabet_z.m4a
+sp2_help.m4a
+sp2_intro.m4a
+sp_help.m4a
+sp_intro.m4a
+spa_help.m4a
+spa_intro.m4a
+spar_help.m4a
+spar_intro.m4a
+word_aligeta.m4a
+word_alkhamisi.m4a
+word_ardhi.m4a
+word_ba.m4a
+word_baba.m4a
+word_back.m4a
+word_bafu.m4a
+word_bag.m4a
+word_bahari.m4a
+word_baiskeli.m4a
+word_bakuli.m4a
+word_ball.m4a
+word_ban.m4a
+word_bank.m4a
+word_barua.m4a
+word_basi.m4a
+word_bat.m4a
+word_bata.m4a
+word_bath.m4a
+word_bawa.m4a
+word_bawabu.m4a
+word_baz.m4a
+word_be.m4a
+word_beach.m4a
+word_bed.m4a
+word_beg.m4a
+word_bell.m4a
+word_belt.m4a
+word_bendera.m4a
+word_berm.m4a
+word_bi.m4a
+word_bib.m4a
+word_bicycle.m4a
+word_bike.m4a
+word_bilauri.m4a
+word_bill.m4a
+word_bird.m4a
+word_blab.m4a
+word_black.m4a
+word_blast.m4a
+word_bless.m4a
+word_blip.m4a
+word_bliss.m4a
+word_blob.m4a
+word_block.m4a
+word_blow.m4a
+word_blush.m4a
+word_bo.m4a
+word_boat.m4a
+word_bone.m4a
+word_book.m4a
+word_born.m4a
+word_boti.m4a
+word_bow.m4a
+word_box.m4a
+word_boy.m4a
+word_boya.m4a
+word_brain.m4a
+word_branch.m4a
+word_brat.m4a
+word_bread.m4a
+word_brem.m4a
+word_brick.m4a
+word_bright.m4a
+word_brim.m4a
+word_bring.m4a
+word_broil.m4a
+word_broom.m4a
+word_broth.m4a
+word_brother.m4a
+word_brown.m4a
+word_brush.m4a
+word_bu.m4a
+word_bug.m4a
+word_bundi.m4a
+word_bunduki.m4a
+word_burn.m4a
+word_bus.m4a
+word_bustani.m4a
+word_bwa.m4a
+word_bwana.m4a
+word_bwawa.m4a
+word_bwe.m4a
+word_bwi.m4a
+word_cab.m4a
+word_caf.m4a
+word_cage.m4a
+word_cake.m4a
+word_can.m4a
+word_cane.m4a
+word_cap.m4a
+word_car.m4a
+word_card.m4a
+word_case.m4a
+word_cat.m4a
+word_cereal.m4a
+word_cha.m4a
+word_chain.m4a
+word_chair.m4a
+word_chaki.m4a
+word_chakula.m4a
+word_chanjo.m4a
+word_chap.m4a
+word_chat.m4a
+word_che.m4a
+word_cheap.m4a
+word_cheat.m4a
+word_cheer.m4a
+word_chenza.m4a
+word_chess.m4a
+word_chi.m4a
+word_chick.m4a
+word_chicken.m4a
+word_children.m4a
+word_chimp.m4a
+word_chin.m4a
+word_chip.m4a
+word_chizi.m4a
+word_cho.m4a
+word_choke.m4a
+word_chombo.m4a
+word_choo.m4a
+word_chop.m4a
+word_chu.m4a
+word_chui.m4a
+word_chungwa.m4a
+word_chupa.m4a
+word_chura.m4a
+word_church.m4a
+word_chut.m4a
+word_chwa.m4a
+word_chwe.m4a
+word_chwechwe.m4a
+word_chwi.m4a
+word_clam.m4a
+word_clap.m4a
+word_clash.m4a
+word_cling.m4a
+word_clip.m4a
+word_clock.m4a
+word_cloth.m4a
+word_cloud.m4a
+word_coat.m4a
+word_coin.m4a
+word_cone.m4a
+word_cop.m4a
+word_corn.m4a
+word_couch.m4a
+word_cow.m4a
+word_crab.m4a
+word_craft.m4a
+word_crash.m4a
+word_crawl.m4a
+word_crayon.m4a
+word_creep.m4a
+word_crib.m4a
+word_cross.m4a
+word_crow.m4a
+word_crush.m4a
+word_cry.m4a
+word_cub.m4a
+word_cube.m4a
+word_cug.m4a
+word_cup.m4a
+word_curl.m4a
+word_cut.m4a
+word_cute.m4a
+word_dad.m4a
+word_dada.m4a
+word_daktari.m4a
+word_dale.m4a
+word_dam.m4a
+word_dash.m4a
+word_dawa.m4a
+word_dawati.m4a
+word_dawi.m4a
+word_day.m4a
+word_deck.m4a
+word_dereva.m4a
+word_desk.m4a
+word_dha.m4a
+word_dhahabu.m4a
+word_dharau.m4a
+word_dhe.m4a
+word_dhi.m4a
+word_dhiki.m4a
+word_dho.m4a
+word_dhoofu.m4a
+word_dhoruba.m4a
+word_dhu.m4a
+word_dhumna.m4a
+word_dime.m4a
+word_dirisha.m4a
+word_dis.m4a
+word_dish.m4a
+word_dive.m4a
+word_dog.m4a
+word_dope.m4a
+word_dot.m4a
+word_draft.m4a
+word_draw.m4a
+word_dress.m4a
+word_drink.m4a
+word_drip.m4a
+word_drop.m4a
+word_drove.m4a
+word_drug.m4a
+word_drum.m4a
+word_dry.m4a
+word_dubu.m4a
+word_duck.m4a
+word_dug.m4a
+word_dunia.m4a
+word_elephant.m4a
+word_elf.m4a
+word_elfu.m4a
+word_embe.m4a
+word_face.m4a
+word_fad.m4a
+word_fall.m4a
+word_fan.m4a
+word_farasi.m4a
+word_farm.m4a
+word_farmer.m4a
+word_fast.m4a
+word_fat.m4a
+word_father.m4a
+word_feet.m4a
+word_felt.m4a
+word_feni.m4a
+word_fern.m4a
+word_fet.m4a
+word_fig.m4a
+word_filamu.m4a
+word_fimbo.m4a
+word_fire.m4a
+word_firimbi.m4a
+word_fish.m4a
+word_fist.m4a
+word_five.m4a
+word_flag.m4a
+word_flap.m4a
+word_flash.m4a
+word_flat.m4a
+word_fleck.m4a
+word_fligh.m4a
+word_flight.m4a
+word_flip.m4a
+word_floor.m4a
+word_floss.m4a
+word_flower.m4a
+word_fly.m4a
+word_foga.m4a
+word_foil.m4a
+word_food.m4a
+word_foot.m4a
+word_fork.m4a
+word_foronya.m4a
+word_fox.m4a
+word_frat.m4a
+word_fresh.m4a
+word_frill.m4a
+word_frog.m4a
+word_frost.m4a
+word_froth.m4a
+word_fruit.m4a
+word_fujwa.m4a
+word_fukuzwa.m4a
+word_fulana.m4a
+word_fun.m4a
+word_funzwa.m4a
+word_fyata.m4a
+word_game.m4a
+word_gari.m4a
+word_garijamoshi.m4a
+word_gas.m4a
+word_gate.m4a
+word_gauni.m4a
+word_gem.m4a
+word_gereza.m4a
+word_get.m4a
+word_gha.m4a
+word_ghasia.m4a
+word_ghe.m4a
+word_ghi.m4a
+word_gho.m4a
+word_ghu.m4a
+word_ghuba.m4a
+word_ghushi.m4a
+word_giraffe.m4a
+word_girl.m4a
+word_gitaa.m4a
+word_glasi.m4a
+word_glass.m4a
+word_glob.m4a
+word_glop.m4a
+word_glum.m4a
+word_goal.m4a
+word_goat.m4a
+word_good.m4a
+word_gorafa.m4a
+word_got.m4a
+word_goti.m4a
+word_grad.m4a
+word_grain.m4a
+word_gram.m4a
+word_grape.m4a
+word_grass.m4a
+word_gray.m4a
+word_green.m4a
+word_grill.m4a
+word_grin.m4a
+word_growl.m4a
+word_grump.m4a
+word_gulf.m4a
+word_gull.m4a
+word_gulp.m4a
+word_gum.m4a
+word_gun.m4a
+word_gunia.m4a
+word_gurudumu.m4a
+word_gwa.m4a
+word_gwaruza.m4a
+word_gwe.m4a
+word_gwi.m4a
+word_hadithi.m4a
+word_hadithu.m4a
+word_ham.m4a
+word_hand.m4a
+word_hang.m4a
+word_hat.m4a
+word_hay.m4a
+word_heat.m4a
+word_hela.m4a
+word_help.m4a
+word_hem.m4a
+word_hen.m4a
+word_herd.m4a
+word_heroe.m4a
+word_hijabu.m4a
+word_hill.m4a
+word_hirizi.m4a
+word_hiv.m4a
+word_hog.m4a
+word_holu.m4a
+word_home.m4a
+word_hook.m4a
+word_hop.m4a
+word_hoteli.m4a
+word_house.m4a
+word_how.m4a
+word_howl.m4a
+word_hum.m4a
+word_hundi.m4a
+word_hung.m4a
+word_hunk.m4a
+word_igwa.m4a
+word_ikulu.m4a
+word_inzi.m4a
+word_it.m4a
+word_jam.m4a
+word_jani.m4a
+word_japi.m4a
+word_jar.m4a
+word_jasho.m4a
+word_jay.m4a
+word_jengo.m4a
+word_jicho.m4a
+word_jig.m4a
+word_jikoni.m4a
+word_jioni.m4a
+word_job.m4a
+word_join.m4a
+word_joke.m4a
+word_joy.m4a
+word_jua.m4a
+word_jug.m4a
+word_juice.m4a
+word_juisi.m4a
+word_junk.m4a
+word_juu.m4a
+word_jwa.m4a
+word_jwe.m4a
+word_ka (1).m4a
+word_ka.m4a
+word_kabati.m4a
+word_kahawa.m4a
+word_kaka.m4a
+word_kalamu.m4a
+word_kamusi.m4a
+word_kang.m4a
+word_kanzu.m4a
+word_kaptula.m4a
+word_karatasi.m4a
+word_kazi.m4a
+word_ke.m4a
+word_keki.m4a
+word_keli.m4a
+word_kelp.m4a
+word_ken.m4a
+word_kengele.m4a
+word_kha.m4a
+word_khe.m4a
+word_kheri.m4a
+word_khi.m4a
+word_kho.m4a
+word_khu.m4a
+word_ki.m4a
+word_kibete.m4a
+word_kibeti.m4a
+word_kichaka.m4a
+word_kichana.m4a
+word_kichezeo.m4a
+word_kichwa.m4a
+word_kid.m4a
+word_kidari.m4a
+word_kidimbwi.m4a
+word_kidole.m4a
+word_kifaru.m4a
+word_kifutio.m4a
+word_kiganja.m4a
+word_kijiji.m4a
+word_kijiko.m4a
+word_kikombe.m4a
+word_kilima.m4a
+word_kima.m4a
+word_kimbunga.m4a
+word_kin.m4a
+word_kinywaji.m4a
+word_kioo.m4a
+word_kiota.m4a
+word_kisu.m4a
+word_kit.m4a
+word_kitabu.m4a
+word_kitanda.m4a
+word_kitawi.m4a
+word_kite.m4a
+word_kiti.m4a
+word_kitunuuthomu.m4a
+word_kiuno.m4a
+word_kiziwi.m4a
+word_ko.m4a
+word_kocha.m4a
+word_kofia.m4a
+word_kompyuta.m4a
+word_kondoo.m4a
+word_koo.m4a
+word_korogwa.m4a
+word_koti.m4a
+word_kriketi.m4a
+word_ku.m4a
+word_kubwa.m4a
+word_kuku.m4a
+word_kulwa.m4a
+word_kumi.m4a
+word_kuni.m4a
+word_kunja.m4a
+word_kunjwa.m4a
+word_kwa.m4a
+word_kwaheri.m4a
+word_kwanza.m4a
+word_kwapa.m4a
+word_kwato.m4a
+word_kwaya.m4a
+word_kwe.m4a
+word_kweli.m4a
+word_kwi.m4a
+word_kwinini.m4a
+word_lab.m4a
+word_lad.m4a
+word_laghai.m4a
+word_laid.m4a
+word_lake.m4a
+word_lamp.m4a
+word_land.m4a
+word_lango.m4a
+word_lap.m4a
+word_late.m4a
+word_lawn.m4a
+word_left.m4a
+word_leg.m4a
+word_lend.m4a
+word_leseni.m4a
+word_let.m4a
+word_lid.m4a
+word_life.m4a
+word_lift.m4a
+word_light.m4a
+word_limau.m4a
+word_limp.m4a
+word_lion.m4a
+word_lip.m4a
+word_log.m4a
+word_lori.m4a
+word_loud.m4a
+word_low.m4a
+word_lugha.m4a
+word_luj.m4a
+word_lump.m4a
+word_lura.m4a
+word_lwa.m4a
+word_lwe.m4a
+word_lwi.m4a
+word_ma.m4a
+word_made.m4a
+word_maf.m4a
+word_mafuta.m4a
+word_mahindi.m4a
+word_maid.m4a
+word_maji.m4a
+word_make.m4a
+word_mama.m4a
+word_mamba.m4a
+word_man.m4a
+word_mane.m4a
+word_map.m4a
+word_mashua.m4a
+word_mask.m4a
+word_mat.m4a
+word_mate.m4a
+word_math.m4a
+word_may.m4a
+word_maziwa.m4a
+word_mbao.m4a
+word_mbegu.m4a
+word_mbili.m4a
+word_mboga.m4a
+word_mbuni.m4a
+word_mbuzi.m4a
+word_mbwa (1).m4a
+word_mbwe.m4a
+word_mbweha.m4a
+word_mbwi.m4a
+word_mchana.m4a
+word_mchele.m4a
+word_mchezo.m4a
+word_mchezowaraga.m4a
+word_mchwa.m4a
+word_mdomo.m4a
+word_mdudu.m4a
+word_me.m4a
+word_meal.m4a
+word_meat.m4a
+word_meet.m4a
+word_melt.m4a
+word_mesh.m4a
+word_mess.m4a
+word_met.m4a
+word_methali.m4a
+word_meva.m4a
+word_meza.m4a
+word_mgeni.m4a
+word_mgongo.m4a
+word_mguu.m4a
+word_mhuri.m4a
+word_mi.m4a
+word_michezo.m4a
+word_might.m4a
+word_mine.m4a
+word_mint.m4a
+word_mist.m4a
+word_mitaani.m4a
+word_miti.m4a
+word_mitt.m4a
+word_mji.m4a
+word_mkahawa.m4a
+word_mkate.m4a
+word_mkia.m4a
+word_mkono.m4a
+word_mkuki.m4a
+word_mkulima.m4a
+word_mlango.m4a
+word_mlima.m4a
+word_mmea.m4a
+word_mnyama.m4a
+word_mo.m4a
+word_moja.m4a
+word_mom.m4a
+word_moon.m4a
+word_mop.m4a
+word_mother.m4a
+word_moto.m4a
+word_mouse.m4a
+word_mouth.m4a
+word_mow.m4a
+word_moyo.m4a
+word_mpira.m4a
+word_mpirawakikapu.m4a
+word_mraba.m4a
+word_msichana.m4a
+word_mtandao.m4a
+word_mti.m4a
+word_mto.m4a
+word_mtoto.m4a
+word_mu.m4a
+word_much.m4a
+word_muck.m4a
+word_mule.m4a
+word_mund.m4a
+word_mung'unye.m4a
+word_mungunye.m4a
+word_mute.m4a
+word_mutt.m4a
+word_muuguzi.m4a
+word_muungwana.m4a
+word_mvanila.m4a
+word_mvi.m4a
+word_mvinyo.m4a
+word_mvua.m4a
+word_mvuke.m4a
+word_mvulana.m4a
+word_mvule.m4a
+word_mvunguni.m4a
+word_mwa.m4a
+word_mwalimu.m4a
+word_mwamba.m4a
+word_mwanadamu.m4a
+word_mwanake.m4a
+word_mwanasesere.m4a
+word_mwanaume.m4a
+word_mwangaza.m4a
+word_mwavuli.m4a
+word_mwe.m4a
+word_mwerevu.m4a
+word_mweupe.m4a
+word_mwezi.m4a
+word_mwi.m4a
+word_mwili.m4a
+word_mwizi.m4a
+word_mwo.m4a
+word_mwongo.m4a
+word_mzasi.m4a
+word_mzee.m4a
+word_naibu.m4a
+word_nambari.m4a
+word_name.m4a
+word_nane.m4a
+word_nap.m4a
+word_nchi.m4a
+word_ndama.m4a
+word_ndege.m4a
+word_ndimu.m4a
+word_ndizi.m4a
+word_ndoo.m4a
+word_ndoto.m4a
+word_ndovu.m4a
+word_ndwa.m4a
+word_ndwe.m4a
+word_ndwi.m4a
+word_neat.m4a
+word_neck.m4a
+word_need.m4a
+word_nes.m4a
+word_nest.m4a
+word_net.m4a
+word_neti.m4a
+word_ng'wa.m4a
+word_ng'we.m4a
+word_ng'wi.m4a
+word_ngaavu.m4a
+word_ngamia.m4a
+word_ngandu.m4a
+word_ngano.m4a
+word_ngazi.m4a
+word_ngiri.m4a
+word_ngoa.m4a
+word_ngoma.m4a
+word_ngombe.m4a
+word_ngozi.m4a
+word_ngumi.m4a
+word_nguo.m4a
+word_nguruwe.m4a
+word_ngwa.m4a
+word_ngwafua.m4a
+word_ngwe.m4a
+word_ngwena.m4a
+word_ngwenje.m4a
+word_ngwenya.m4a
+word_ngwi.m4a
+word_nick.m4a
+word_night.m4a
+word_nija.m4a
+word_ningu.m4a
+word_njaa.m4a
+word_njano.m4a
+word_nje.m4a
+word_njia.m4a
+word_njiti.m4a
+word_njiwa.m4a
+word_njugu.m4a
+word_njwa.m4a
+word_njwe.m4a
+word_nondo.m4a
+word_not.m4a
+word_noti.m4a
+word_now.m4a
+word_nungunungu.m4a
+word_nurse.m4a
+word_nut.m4a
+word_nyama.m4a
+word_nyangumi.m4a
+word_nyani.m4a
+word_nyanya.m4a
+word_nyasi.m4a
+word_nyeupe.m4a
+word_nyika.m4a
+word_nyoka.m4a
+word_nyota.m4a
+word_nyoto.m4a
+word_nyuki.m4a
+word_nyumba.m4a
+word_nyumbani.m4a
+word_nywa.m4a
+word_nywe.m4a
+word_nywele.m4a
+word_nywi.m4a
+word_nzige.m4a
+word_nzuri.m4a
+word_ofisi.m4a
+word_on.m4a
+word_orange.m4a
+word_orangutangu.m4a
+word_pa.m4a
+word_paa.m4a
+word_page.m4a
+word_pail.m4a
+word_pain.m4a
+word_paja.m4a
+word_paka.m4a
+word_pakiti.m4a
+word_pale.m4a
+word_pan.m4a
+word_pandwa.m4a
+word_panya.m4a
+word_panzi.m4a
+word_park.m4a
+word_part.m4a
+word_paw.m4a
+word_pe.m4a
+word_pea.m4a
+word_pear.m4a
+word_peck.m4a
+word_pen.m4a
+word_pesa.m4a
+word_pet.m4a
+word_pete.m4a
+word_phone.m4a
+word_pi.m4a
+word_picha.m4a
+word_pick.m4a
+word_pig.m4a
+word_pigwa.m4a
+word_pill.m4a
+word_pin.m4a
+word_ping.m4a
+word_pini.m4a
+word_pink.m4a
+word_pipiki.m4a
+word_plan.m4a
+word_plane.m4a
+word_plant.m4a
+word_plate.m4a
+word_plau.m4a
+word_play.m4a
+word_ploy.m4a
+word_plug.m4a
+word_plum.m4a
+word_plush.m4a
+word_ply.m4a
+word_po.m4a
+word_point.m4a
+word_pole.m4a
+word_polisi.m4a
+word_pond.m4a
+word_pont.m4a
+word_pop.m4a
+word_pot.m4a
+word_pound.m4a
+word_pram.m4a
+word_pray.m4a
+word_press.m4a
+word_prick.m4a
+word_print.m4a
+word_prom.m4a
+word_pu.m4a
+word_pua.m4a
+word_puff.m4a
+word_pulp.m4a
+word_punda.m4a
+word_pundamilia.m4a
+word_punguzwa.m4a
+word_pup.m4a
+word_pwa.m4a
+word_pwani.m4a
+word_pwe.m4a
+word_pweza.m4a
+word_pwi.m4a
+word_quinn.m4a
+word_quip.m4a
+word_quit.m4a
+word_quiz.m4a
+word_rabbit.m4a
+word_rada.m4a
+word_rafiki.m4a
+word_raft.m4a
+word_rag.m4a
+word_rail.m4a
+word_ran.m4a
+word_rang.m4a
+word_rap.m4a
+word_rat.m4a
+word_raw.m4a
+word_reach.m4a
+word_read.m4a
+word_red.m4a
+word_redio.m4a
+word_rib.m4a
+word_riboni.m4a
+word_right.m4a
+word_ring.m4a
+word_rip.m4a
+word_ripe.m4a
+word_road.m4a
+word_roam.m4a
+word_rock.m4a
+word_rog.m4a
+word_roho.m4a
+word_room.m4a
+word_rope.m4a
+word_rot.m4a
+word_round.m4a
+word_row.m4a
+word_rub.m4a
+word_rug.m4a
+word_rula.m4a
+word_rum.m4a
+word_rung.m4a
+word_rupa.m4a
+word_saa.m4a
+word_sabuni.m4a
+word_sack.m4a
+word_sad.m4a
+word_sahani.m4a
+word_sakafu.m4a
+word_salt.m4a
+word_saluni.m4a
+word_samaki.m4a
+word_sand.m4a
+word_sanduku.m4a
+word_sang.m4a
+word_sat.m4a
+word_say.m4a
+word_seed.m4a
+word_self.m4a
+word_seli.m4a
+word_send.m4a
+word_sent.m4a
+word_senti.m4a
+word_serve.m4a
+word_set.m4a
+word_sha.m4a
+word_shaba.m4a
+word_shada.m4a
+word_shaft.m4a
+word_shamba.m4a
+word_shape.m4a
+word_sharia.m4a
+word_shark.m4a
+word_shati.m4a
+word_she.m4a
+word_sheep.m4a
+word_sheet.m4a
+word_shehe.m4a
+word_shelf.m4a
+word_shi.m4a
+word_shine.m4a
+word_shingo.m4a
+word_ship.m4a
+word_shirt.m4a
+word_sho.m4a
+word_shoal.m4a
+word_shock.m4a
+word_shoes.m4a
+word_shoka.m4a
+word_shook.m4a
+word_shop.m4a
+word_short.m4a
+word_shot.m4a
+word_shout.m4a
+word_show.m4a
+word_shred.m4a
+word_shrik.m4a
+word_shrill.m4a
+word_shrimp.m4a
+word_shrub.m4a
+word_shrug.m4a
+word_shu.m4a
+word_shuck.m4a
+word_shule.m4a
+word_shum.m4a
+word_shut.m4a
+word_shwa.m4a
+word_shwari.m4a
+word_shwe.m4a
+word_shwi.m4a
+word_shy.m4a
+word_sick.m4a
+word_sift.m4a
+word_sight.m4a
+word_sikio.m4a
+word_sikuyakuzaliwa.m4a
+word_simba.m4a
+word_simu.m4a
+word_simuyarununu.m4a
+word_sing.m4a
+word_sink.m4a
+word_sip.m4a
+word_sister.m4a
+word_sit.m4a
+word_six.m4a
+word_skate.m4a
+word_skill.m4a
+word_skip.m4a
+word_skull.m4a
+word_skunk.m4a
+word_sky.m4a
+word_slack.m4a
+word_slam.m4a
+word_slap.m4a
+word_sled.m4a
+word_sleep.m4a
+word_slight.m4a
+word_slip.m4a
+word_slow.m4a
+word_slush.m4a
+word_smack.m4a
+word_small.m4a
+word_smash.m4a
+word_smell.m4a
+word_smock.m4a
+word_smoke.m4a
+word_snack.m4a
+word_snad.m4a
+word_snail.m4a
+word_snap.m4a
+word_sniff.m4a
+word_snip.m4a
+word_snit.m4a
+word_snob.m4a
+word_snow.m4a
+word_snug.m4a
+word_sob.m4a
+word_sock.m4a
+word_soda.m4a
+word_soft.m4a
+word_soil.m4a
+word_soka.m4a
+word_soko.m4a
+word_soksi.m4a
+word_sokwe.m4a
+word_song.m4a
+word_sort.m4a
+word_speck.m4a
+word_spell.m4a
+word_spill.m4a
+word_spin.m4a
+word_spit.m4a
+word_spoon.m4a
+word_spot.m4a
+word_spout.m4a
+word_sprat.m4a
+word_spring.m4a
+word_sprung.m4a
+word_stad.m4a
+word_stair.m4a
+word_stall.m4a
+word_stamp.m4a
+word_stand.m4a
+word_star.m4a
+word_start.m4a
+word_stath.m4a
+word_steal.m4a
+word_stem.m4a
+word_step.m4a
+word_stick.m4a
+word_stir.m4a
+word_stop.m4a
+word_stork.m4a
+word_storm.m4a
+word_stove.m4a
+word_strap.m4a
+word_straw.m4a
+word_street.m4a
+word_string.m4a
+word_strip.m4a
+word_strong.m4a
+word_strut.m4a
+word_stunt.m4a
+word_sub.m4a
+word_such.m4a
+word_sun.m4a
+word_sung.m4a
+word_sungura.m4a
+word_supu.m4a
+word_suruali.m4a
+word_swa.m4a
+word_swala.m4a
+word_swan.m4a
+word_swap.m4a
+word_swat.m4a
+word_swe.m4a
+word_sweta.m4a
+word_swi.m4a
+word_swig.m4a
+word_swill.m4a
+word_swim.m4a
+word_swing.m4a
+word_swung.m4a
+word_ta.m4a
+word_taa.m4a
+word_tab.m4a
+word_tabasamu.m4a
+word_table.m4a
+word_tableti.m4a
+word_tack.m4a
+word_tag.m4a
+word_tail.m4a
+word_taji.m4a
+word_taka.m4a
+word_tako.m4a
+word_tamu.m4a
+word_tap.m4a
+word_tape.m4a
+word_tar.m4a
+word_tashwishi.m4a
+word_task.m4a
+word_tat.m4a
+word_tatu.m4a
+word_tax.m4a
+word_te.m4a
+word_teach.m4a
+word_team.m4a
+word_teen.m4a
+word_teksi.m4a
+word_televisheni.m4a
+word_tembo.m4a
+word_ten.m4a
+word_tent.m4a
+word_tha.m4a
+word_thamani.m4a
+word_than.m4a
+word_that.m4a
+word_thaw.m4a
+word_the.m4a
+word_theita.m4a
+word_thelathini.m4a
+word_theluji.m4a
+word_them.m4a
+word_thenashara.m4a
+word_thi.m4a
+word_thick.m4a
+word_thin.m4a
+word_thing.m4a
+word_think.m4a
+word_third.m4a
+word_this.m4a
+word_tho.m4a
+word_three.m4a
+word_thu.m4a
+word_thureya.m4a
+word_ti.m4a
+word_tib.m4a
+word_tick.m4a
+word_tide.m4a
+word_tight.m4a
+word_tilt.m4a
+word_time.m4a
+word_timu.m4a
+word_tip.m4a
+word_tisa.m4a
+word_to.m4a
+word_toad.m4a
+word_tofaa.m4a
+word_toilet.m4a
+word_tone.m4a
+word_took.m4a
+word_tooth.m4a
+word_top.m4a
+word_town.m4a
+word_toy.m4a
+word_trail.m4a
+word_train.m4a
+word_tram.m4a
+word_trap.m4a
+word_trash.m4a
+word_tray.m4a
+word_treasure.m4a
+word_tree.m4a
+word_trick.m4a
+word_trim.m4a
+word_trip.m4a
+word_tris.m4a
+word_truck.m4a
+word_trunk.m4a
+word_try.m4a
+word_tu.m4a
+word_tub.m4a
+word_tuck.m4a
+word_tufaa.m4a
+word_tumbili.m4a
+word_tunda.m4a
+word_tunzwa.m4a
+word_turn.m4a
+word_tusk.m4a
+word_tux.m4a
+word_tuza.m4a
+word_twa.m4a
+word_twanga.m4a
+word_twe.m4a
+word_tweta.m4a
+word_twi.m4a
+word_twiga.m4a
+word_twika.m4a
+word_ua.m4a
+word_ufunguo.m4a
+word_ulimi.m4a
+word_uma.m4a
+word_umbwa.m4a
+word_undwa.m4a
+word_upepo.m4a
+word_upinde.m4a
+word_ushanga.m4a
+word_usiku.m4a
+word_uso.m4a
+word_uzwa.m4a
+word_val.m4a
+word_van.m4a
+word_vazi.m4a
+word_veli.m4a
+word_vep.m4a
+word_vest.m4a
+word_vet.m4a
+word_viatu.m4a
+word_video.m4a
+word_vip.m4a
+word_viza.m4a
+word_volkano.m4a
+word_vumbi.m4a
+word_vunja.m4a
+word_vuta.m4a
+word_vuvuzela.m4a
+word_vyakula.m4a
+word_vyangu.m4a
+word_vyao.m4a
+word_vyeo.m4a
+word_vyeti.m4a
+word_vyetu.m4a
+word_vyombo.m4a
+word_vyuma.m4a
+word_vyumba.m4a
+word_vyuo.m4a
+word_wake.m4a
+word_wanaume.m4a
+word_wanawake.m4a
+word_waridi.m4a
+word_watch.m4a
+word_watoto.m4a
+word_watu.m4a
+word_wave.m4a
+word_way.m4a
+word_wayo.m4a
+word_web.m4a
+word_week.m4a
+word_wembe.m4a
+word_wet.m4a
+word_when.m4a
+word_whim.m4a
+word_whip.m4a
+word_whiz.m4a
+word_why.m4a
+word_wig.m4a
+word_wimbo.m4a
+word_wind.m4a
+word_windwa.m4a
+word_wing.m4a
+word_wingu.m4a
+word_wink.m4a
+word_wish.m4a
+word_wit.m4a
+word_with.m4a
+word_wood.m4a
+word_wup.m4a
+word_x-ray.m4a
+word_yai.m4a
+word_yak.m4a
+word_yam.m4a
+word_yan.m4a
+word_yaya.m4a
+word_yegeya.m4a
+word_yek.m4a
+word_yell.m4a
+word_yelp.m4a
+word_yep.m4a
+word_yes.m4a
+word_yombiyombi.m4a
+word_yoze.m4a
+word_yunifomu.m4a
+word_zabibu.m4a
+word_zap.m4a
+word_zen.m4a
+word_zigzag.m4a
+word_zip.m4a
+word_ziwa.m4a
+word_zoezi.m4a
+word_zohali.m4a
+word_zoo.m4a
+word_zoom.m4a
+word_zulia.m4a
+word_zwa.m4a
+word_zwe.m4a
+word_zwi.m4a
+wordblend2_help.m4a
+wordblend2_intro.m4a
+wordblend2_long_1a.m4a
+wordblend2_long_1b.m4a
+wordblend2_long_2a.m4a
+wordblend2_long_2b.m4a
+wordblend2_long_3a.m4a
+wordblend2_long_3b.m4a
+wordblend2_mastery_intro.m4a
+wordblend_help.m4a
+wordblend_intro.m4a
+wordblend_long_1a.m4a
+wordblend_long_1b.m4a
+wordblend_long_2a.m4a
+wordblend_long_2b.m4a
+wordblend_long_3a.m4a
+wordblend_long_3b.m4a
+wordblend_short_a.m4a
+wordblend_short_b.m4a
+wra_help.m4a
+wra_intro.m4a
+wra_short_1a.m4a
+wra_short_1b.m4a

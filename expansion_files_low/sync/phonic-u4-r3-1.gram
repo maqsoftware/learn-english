@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = round| how| brown| mouth;
+
+public <words> = <word>+;

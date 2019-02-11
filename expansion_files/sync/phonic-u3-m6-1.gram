@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = bike| road| feet| brain;
+
+public <words> = <word>+;

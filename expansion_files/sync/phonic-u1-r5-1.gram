@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = zip        |
+          yes    |
+          van |
+          quiz|
+          tux;
+
+public <words> = <word>+;

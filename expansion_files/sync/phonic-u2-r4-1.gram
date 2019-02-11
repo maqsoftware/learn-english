@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = stall| skip| smell| snob| swat| desk| spot;
+
+public <words> = <word>+;

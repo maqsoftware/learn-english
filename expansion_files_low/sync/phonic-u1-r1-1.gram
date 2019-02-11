@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = cat        |
+          mat    |
+          sat;
+
+public <words> = <word>+;

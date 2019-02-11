@@ -1,0 +1,2 @@
+include ':downloader_library', ':play_licensing', ':zip_file', ':android_low'
+include 'android','desktop', 'core'

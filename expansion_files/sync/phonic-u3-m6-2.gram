@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = cube| blow| cake| night;
+
+public <words> = <word>+;

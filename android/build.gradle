@@ -1,0 +1,163 @@
+android {
+    buildToolsVersion '28.0.3'
+    compileSdkVersion 28
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    defaultConfig {
+        applicationId "com.maqautocognita.alxp"
+        multiDexEnabled true
+        minSdkVersion 21
+        targetSdkVersion 28
+        ndk {
+            moduleName "lipitk"
+            abiFilters "x86_64", "arm64-v8a", "armeabi", "x86"
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/io.netty.versions.properties'
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/maven/com.google.guava/guava/pom.properties'
+        exclude 'META-INF/maven/com.google.guava/guava/pom.xml'
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "2048M"
+    }
+
+    configurations.all {
+        resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+            def requested = details.requested
+            if (requested.group == 'com.android.support') {
+                if (!requested.name.startsWith("multidex")) {
+                    details.useVersion '25.3.0'
+                }
+            }
+        }
+    }
+}
+// called every time gradle gets executed, takes the native dependencies of
+// the natives configuration, and extracts them to the proper libs/ folders
+// so they get packed with the APK.
+task copyAndroidNatives() {
+    file("libs/armeabi/").mkdirs();
+    file("libs/armeabi-v7a/").mkdirs();
+    file("libs/arm64-v8a/").mkdirs();
+    file("libs/x86_64/").mkdirs();
+    file("libs/x86/").mkdirs();
+
+    configurations.natives.files.each { jar ->
+        def outputDir = null
+        if (jar.name.endsWith("natives-arm64-v8a.jar")) outputDir = file("libs/arm64-v8a")
+        if (jar.name.endsWith("natives-armeabi-v7a.jar")) outputDir = file("libs/armeabi-v7a")
+        if (jar.name.endsWith("natives-armeabi.jar")) outputDir = file("libs/armeabi")
+        if (jar.name.endsWith("natives-x86_64.jar")) outputDir = file("libs/x86_64")
+        if (jar.name.endsWith("natives-x86.jar")) outputDir = file("libs/x86")
+        if (outputDir != null) {
+            copy {
+                from zipTree(jar)
+                into outputDir
+                include "*.so"
+            }
+        }
+    }
+}
+task run(type: Exec) {
+    def path
+    def localProperties = project.file("../local.properties")
+    if (localProperties.exists()) {
+        Properties properties = new Properties()
+        localProperties.withInputStream { instr ->
+            properties.load(instr)
+        }
+        def sdkDir = properties.getProperty('sdk.dir')
+        if (sdkDir) {
+            path = sdkDir
+        } else {
+            path = "$System.env.ANDROID_HOME"
+        }
+    } else {
+        path = "$System.env.ANDROID_HOME"
+    }
+
+    def adb = path + "/platform-tools/adb"
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.maqautocognita/com.maqautocognita.AndroidLauncher'
+}
+
+// sets up the Android Idea project, using the old Ant based build.
+idea {
+    module {
+        sourceDirs += file("src");
+        scopes = [COMPILE: [plus: [project.configurations.compile]]]
+
+        iml {
+            withXml {
+                def node = it.asNode()
+                def builder = NodeBuilder.newInstance();
+                builder.current = node;
+                builder.component(name: "FacetManager") {
+                    facet(type: "android", name: "Android") {
+                        configuration {
+                            option(name: "UPDATE_PROPERTY_FILES", value: "true")
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+repositories {
+    maven { url "https://raw.githubusercontent.com/analyticspot/maven-sdk/master" }
+    google()
+}
+
+dependencies {
+    compile files('java-libs/pocketsphinx-android-5prealpha-nolib.jar')
+    compile project(':downloader_library')
+    compile project(':zip_file')
+    compile 'com.google.android.gms:play-services-location:11.4.2'
+    compile('com.google.apis:google-api-services-translate:v2-rev48-1.22.0') {
+        exclude group: 'com.google.guava'
+    }
+    compile('com.google.cloud:google-cloud-translate:0.5.0') {
+        exclude group: 'io.grpc', module: 'grpc-all'
+        exclude group: 'com.google.protobuf', module: 'protobuf-java'
+        exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
+    }
+    compile('com.analyticspot:android-sdk:1.0.36') {
+        exclude module: 'okhttp'
+        exclude module: 'okio'
+    }
+    compile 'com.ibm.watson.developer_cloud:android-sdk:0.2.2'
+    compile 'com.rmtheis:tess-two:5.4.1'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    // Firestore
+    compile 'com.google.firebase:firebase-firestore:11.4.2'
+    // Other Firebase/Play services deps
+    compile 'com.google.firebase:firebase-auth:11.4.2'
+    compile 'com.google.android.gms:play-services-auth:11.4.2'
+    // FirebaseUI (for authentication)
+    compile 'com.firebaseui:firebase-ui-auth:2.3.0'
+    compile 'com.google.firebase:firebase-messaging:11.4.2'
+    compile 'com.firebase:firebase-jobdispatcher:0.6.0'
+    compile 'com.google.firebase:firebase-database:11.4.2'
+    compile 'com.android.support:appcompat-v7:26.1.0'
+}
+
+apply plugin: 'com.google.gms.google-services'

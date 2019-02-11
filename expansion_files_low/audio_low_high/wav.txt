@@ -1,0 +1,201 @@
+alphabet_big_a.wav
+alphabet_big_b.wav
+alphabet_big_c.wav
+alphabet_big_d.wav
+alphabet_big_e.wav
+alphabet_big_f.wav
+alphabet_big_g.wav
+alphabet_big_h.wav
+alphabet_big_i.wav
+alphabet_big_j.wav
+alphabet_big_k.wav
+alphabet_big_l.wav
+alphabet_big_m.wav
+alphabet_big_n.wav
+alphabet_big_o.wav
+alphabet_big_p.wav
+alphabet_big_q.wav
+alphabet_big_r.wav
+alphabet_big_s.wav
+alphabet_big_t.wav
+alphabet_big_u.wav
+alphabet_big_v.wav
+alphabet_big_w.wav
+alphabet_big_x.wav
+alphabet_big_y.wav
+alphabet_big_z.wav
+alphabet_little_a.wav
+alphabet_little_b.wav
+alphabet_little_c.wav
+alphabet_little_d.wav
+alphabet_little_e.wav
+alphabet_little_f.wav
+alphabet_little_g.wav
+alphabet_little_h.wav
+alphabet_little_i.wav
+alphabet_little_j.wav
+alphabet_little_k.wav
+alphabet_little_l.wav
+alphabet_little_m.wav
+alphabet_little_n.wav
+alphabet_little_o.wav
+alphabet_little_p.wav
+alphabet_little_q.wav
+alphabet_little_r.wav
+alphabet_little_s.wav
+alphabet_little_t.wav
+alphabet_little_u.wav
+alphabet_little_v.wav
+alphabet_little_w.wav
+alphabet_little_x.wav
+alphabet_little_y.wav
+alphabet_little_z.wav
+correct1.wav
+correct2.wav
+correct3.wav
+correct4.wav
+music1.wav
+music2.wav
+music3.wav
+phonic sound_ar.wav
+phonic sound_aw.wav
+phonic sound_b.wav
+phonic sound_ch.wav
+phonic sound_d.wav
+phonic sound_er.wav
+phonic sound_f.wav
+phonic sound_g.wav
+phonic sound_h.wav
+phonic sound_j.wav
+phonic sound_l.wav
+phonic sound_long a.wav
+phonic sound_long e.wav
+phonic sound_long i.wav
+phonic sound_long o.wav
+phonic sound_long oo.wav
+phonic sound_long u.wav
+phonic sound_ng.wav
+phonic sound_oi.wav
+phonic sound_or.wav
+phonic sound_ow.wav
+phonic sound_p.wav
+phonic sound_s.wav
+phonic sound_sh.wav
+phonic sound_short a.wav
+phonic sound_short e.wav
+phonic sound_short o.wav
+phonic sound_short oo.wav
+phonic sound_short u.wav
+phonic sound_t.wav
+phonic sound_th unvoiced.wav
+phonic sound_th voiced.wav
+phonic sound_wh.wav
+phonic sound_y.wav
+phonic sound_z.wav
+phonic sound_zh.wav
+phonics u2_reading_th.wav
+phonics u2_review1.wav
+word_amy.wav
+word_ant.wav
+word_apple.wav
+word_arm.wav
+word_ball.wav
+word_bed.wav
+word_beg.wav
+word_ben.wav
+word_bug.wav
+word_can.wav
+word_cara.wav
+word_cat.wav
+word_clap.wav
+word_cup.wav
+word_dad.wav
+word_dan.wav
+word_desk.wav
+word_dog.wav
+word_ear.wav
+word_ed.wav
+word_egg.wav
+word_eye.wav
+word_fire.wav
+word_fly.wav
+word_foot.wav
+word_frida.wav
+word_gabe.wav
+word_girl.wav
+word_glass.wav
+word_green.wav
+word_hair.wav
+word_hand.wav
+word_helen.wav
+word_horse.wav
+word_ice.wav
+word_idea.wav
+word_inch.wav
+word_isaac.wav
+word_jacket.wav
+word_jeans.wav
+word_jet.wav
+word_jon.wav
+word_karla.wav
+word_key.wav
+word_kid.wav
+word_kiss.wav
+word_laura.wav
+word_leg.wav
+word_letter.wav
+word_lock.wav
+word_man.wav
+word_miguel.wav
+word_mirror.wav
+word_mouse.wav
+word_nadia.wav
+word_neck.wav
+word_nose.wav
+word_note.wav
+word_old.wav
+word_oscar.wav
+word_ostrich.wav
+word_owl.wav
+word_pavla.wav
+word_pig.wav
+word_plus.wav
+word_pot.wav
+word_puppy.wav
+word_question.wav
+word_quinn.wav
+word_rachel.wav
+word_red.wav
+word_ring.wav
+word_rock.wav
+word_sam.wav
+word_saw.wav
+word_snake.wav
+word_sun.wav
+word_tanya.wav
+word_teeth.wav
+word_top.wav
+word_truck.wav
+word_umbrella.wav
+word_uncle.wav
+word_up.wav
+word_ursula.wav
+word_van.wav
+word_vet.wav
+word_viktor.wav
+word_violin.wav
+word_wade.wav
+word_water.wav
+word_web.wav
+word_window.wav
+word_xavier.wav
+word_xray.wav
+word_yak.wav
+word_yell.wav
+word_yellow.wav
+word_yolanda.wav
+word_young.wav
+word_zach.wav
+word_zebra.wav
+word_zipper.wav
+wrong1.wav

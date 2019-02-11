@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = get        |
+          hem    |
+          job |
+          leg;
+
+public <words> = <word>+;

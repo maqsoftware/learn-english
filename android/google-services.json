@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130698851050",
+    "firebase_url": "https://autocognita.firebaseio.com",
+    "project_id": "maqautocognita",
+    "storage_bucket": "autocognita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130698851050:android:38c1c9c344408f02",
+        "android_client_info": {
+          "package_name": "com.maqautocognita.alxp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130698851050-krng47ujvme9jma21cobk6pjfcte9bad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcN0rZ5Q8giQVqZW-nKYR0-jloonnAu64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

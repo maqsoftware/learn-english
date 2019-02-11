@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+grammar words;
+
+<word> = kin        |
+          dog    |
+          wig |
+          net;
+
+public <words> = <word>+;
